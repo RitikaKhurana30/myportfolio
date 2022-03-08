@@ -1,14 +1,15 @@
 ---
 ## Configure page content in wide column
-title: "Bio" # leave blank to exclude
+title: "'My journey of becoming Data Analyst' " # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
-intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+intro: | 
+
+  <b><h3>Education Background:</h3> </b>I was born in Punjab, India. I did my schooling at [<b>Dayanand Model School</b>](http://dmsjalandhar.org/) Jalandhar and completed my undergraduate degree(Engineering) in the field of Electronics and Communication from [<b>National Institute of Technology</b>](https://www.nitj.ac.in/) Jalandhar in 2018. Being a big fan of art and a technical whiz, I've decided to combine the two and work as an analyst and visualization developer. I flew to Toronto to do my post graduation at [<b>St. Clair College</b>](https://www.stclaircollege.ca/), Windsor. I am currently in my final semester, which will end in April & look forward to get an exposure in the Canadian work environment.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  <b><h3>Employement History:</h3></b> During my final year of Engineering, I got campus placement with [Reliance Industries Ltd.](https://www.ril.com/) 
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
