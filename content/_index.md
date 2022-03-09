@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am Data Analytics student who has worked with diverse range of subjects. I daily intake something new to help you see your data better in Tableau. 
+description: I am Data Analytics student who has worked with diverse range of subjects. I daily intake something new to help you see your data better. 
 image_left: true
 images:
 - img/try1.jpg

@@ -33,7 +33,7 @@ enableEmoji = true
   description = "This is the personal website of Ritika Khurana"
   favicon = "/img/pie-chart.ico" 
   logo = "/img/bar-chart.jpg"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["Dashboards", "project"]
   navallcaps = true  #capital 
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "grayscale" 
+  theme = "sky" 
   
   # or, leave theme empty & make your own palette
   
@@ -62,7 +62,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = ""
+  customtextFontFamily = "Commissioner"   #bitter 
   customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -79,7 +79,7 @@ enableEmoji = true
 
   # Configuration of math rendering
   [params.math]
-    renderer = "katex" # one of "mathjax" / "katex" 
+    renderer = "mathjax" # one of "mathjax" / "katex" 
 
   # Social icons may appear on homepage and in site header or footer
   # Configure show/hide above - add as many as you like below
@@ -118,8 +118,8 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Dashboards"
+    title = "My Dashboards"
     url = "/blog/"
     weight = 2
   [[menu.header]]
@@ -127,11 +127,6 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
  
     
   # Configure footer  
